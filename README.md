@@ -60,7 +60,7 @@ Memory allocation and management functions:
 - **Memory Mapping**: `mmap()`, `mremap()`, `munmap()`.
 
 ### Error Handling (`<errno.h>`)
- Track errors for system calls and library functions.
+- Track errors for system calls and functions.
 ---
 
 ## Installation
